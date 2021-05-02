@@ -5,6 +5,7 @@ A bunch of Google Apps Script snippets
 Contains some common scripts like Pushover, ...
  * `./Pushover.gs`: Simple pushover messages sender
  * `./Random.gs`: Scripts using Math.random()
+ * `./WebRequestParams.gs`: Ease up things for web requests with parameters
 
 ## Crypto
 Contains scripts to query balances from crypto exchanges and wallets
